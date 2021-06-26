@@ -1,5 +1,11 @@
-### Hi there 👋
+### Work Experience
+퍼네이션 (20.11 ~ 21.04)
+이노플 (21.05 ~ )
 
+### Project
+기부니가좋다
+
+달핑리뉴얼
 <!--
 **Songminseon/Songminseon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
