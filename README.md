@@ -6,7 +6,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/%EB%AF%BC%EC%84%A0-%EC%86%A1-255795187/)](https://www.linkedin.com/in/%EB%AF%BC%EC%84%A0-%EC%86%A1-255795187/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/smsun0329/)](https://www.instagram.com/smsun0329/)
 
-
+blog: [https://songminseon.tistory.com](https://songminseon.tistory.com/)
+portfolio: [https://](https://songminseon.github.io/)
 # Skills
 
 __Front__
