@@ -7,7 +7,8 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/smsun0329/)](https://www.instagram.com/smsun0329/)
 
 blog: [https://songminseon.tistory.com](https://songminseon.tistory.com/)
-portfolio: [https://](https://songminseon.github.io/)
+
+portfolio: [https://songminseon.github.io](https://songminseon.github.io/)
 # Skills
 
 __Front__
