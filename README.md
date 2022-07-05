@@ -49,7 +49,7 @@ __Program Language__
 
 # 개발한 사이트 목록
 https://do.funation.io (현재 중단)<br/>
-https://kstudio.io<br/>
+https://kstudio.io (현재 중단)<br/>
 https://dalping.com/<br/>
 https://www.lifeadvisor.kr<br/>
 https://www.couldvegan.com<br/>
