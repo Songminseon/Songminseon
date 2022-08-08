@@ -2,9 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smsun0329@gmaiil.com)](mailto:smsun0329@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:smsun0329@naver.com)](mailto:smsun0329@naver.com)
-[![Notion Badge](https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/About-Me-1c4d9f3c95a945b98702a985cf645d68)](https://www.notion.so/About-Me-1c4d9f3c95a945b98702a985cf645d68)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/%EB%AF%BC%EC%84%A0-%EC%86%A1-255795187/)](https://www.linkedin.com/in/%EB%AF%BC%EC%84%A0-%EC%86%A1-255795187/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/smsun0329/)](https://www.instagram.com/smsun0329/)
 
 
 portfolio: [https://songminseon.github.io](https://songminseon.github.io/)
