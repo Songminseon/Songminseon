@@ -5,7 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/%EB%AF%BC%EC%84%A0-%EC%86%A1-255795187/)](https://www.linkedin.com/in/%EB%AF%BC%EC%84%A0-%EC%86%A1-255795187/)
 
 
-portfolio: [https://songminseon.github.io](https://songminseon.github.io/)
 # Skills
 
 __Front__
